@@ -1,0 +1,1467 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+  <link rel="dns-prefetch" href="https://github.githubassets.com">
+  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
+  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+
+
+
+  <link crossorigin="anonymous" media="all" integrity="sha512-KteJInPtsWP6Z4OmnoDMSD9Npymb3/ELZgjxj3cHFNZmpUnyA8+PI5dHCjraBc493BVMDMYrCSnfKba8DWjIUg==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-2ad7892273edb163fa6783a69e80cc48.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-xy1MrQExqyjb/ziwgrk54e04nZF8+LI+5zC4bDdf+MaJ4Hz61zfdJmwIZuICc6Q6R/HBQMXOymXA9w4iaT76uQ==" rel="stylesheet" href="https://github.githubassets.com/assets/site-c72d4cad0131ab28dbff38b082b939e1.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-wg3QVfoncez7piRCjZypF1qdLLkudSCbtGxhHxKtSkNtujTdi6zzn8yM28xmV0B2I0BwAKc6K90WnqX6CspFVA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-c20dd055fa2771ecfba624428d9ca917.css" />
+    
+    
+    
+    
+
+
+  <meta name="viewport" content="width=device-width">
+  
+  <title>GitHub - techarkit/Linux-For-Beginners: A Red Hat Certified System Administrator (RHCSA) - EX200</title>
+    <meta name="description" content="A Red Hat Certified System Administrator (RHCSA) - EX200 - techarkit/Linux-For-Beginners">
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
+  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
+  <meta property="fb:app_id" content="1401488693436528">
+
+    <meta name="twitter:image:src" content="https://avatars3.githubusercontent.com/u/14858025?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="techarkit/Linux-For-Beginners" /><meta name="twitter:description" content="A Red Hat Certified System Administrator (RHCSA) - EX200 - techarkit/Linux-For-Beginners" />
+    <meta property="og:image" content="https://avatars3.githubusercontent.com/u/14858025?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="techarkit/Linux-For-Beginners" /><meta property="og:url" content="https://github.com/techarkit/Linux-For-Beginners" /><meta property="og:description" content="A Red Hat Certified System Administrator (RHCSA) - EX200 - techarkit/Linux-For-Beginners" />
+
+  <link rel="assets" href="https://github.githubassets.com/">
+  
+
+  <meta name="request-id" content="FE34:61A3:EE119:1AC6EB:5EC96755" data-pjax-transient="true"/><meta name="html-safe-nonce" content="5a399d17ac23784cc052a3eac4319a6b44b6a24b" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJGRTM0OjYxQTM6RUUxMTk6MUFDNkVCOjVFQzk2NzU1IiwidmlzaXRvcl9pZCI6IjcyMDgxMjYwNjk4MDIxMDA1NjUiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="c1405b0ba6c83fdceb888c004965cd823531090df58c38547b0691c0891cd186" data-pjax-transient="true"/>
+
+
+
+  <meta name="github-keyboard-shortcuts" content="repository" data-pjax-transient="true" />
+
+  
+
+  <meta name="selected-link" value="repo_source" data-pjax-transient>
+
+    <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+  <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+  <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+
+<meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-ga_id" content="" class="js-octo-ga-id" />
+<meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;" data-pjax-transient="true" />
+
+
+<meta name="optimizely-sdk-key" content="cowimJNste4j7QnBNCjaw" />
+
+    <meta name="google-analytics" content="UA-3769691-2">
+
+
+<meta class="js-ga-set" name="dimension1" content="Logged Out">
+
+
+
+  
+
+      <meta name="hostname" content="github.com">
+    <meta name="user-login" content="">
+
+      <meta name="expected-hostname" content="github.com">
+
+
+    <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,JS_CHUNKING">
+
+  <meta http-equiv="x-pjax-version" content="324ebb008cefa0ee2e8715506860e757">
+  
+
+      <link href="https://github.com/techarkit/Linux-For-Beginners/commits/master.atom" rel="alternate" title="Recent Commits to Linux-For-Beginners:master" type="application/atom+xml">
+
+  <meta name="go-import" content="github.com/techarkit/Linux-For-Beginners git https://github.com/techarkit/Linux-For-Beginners.git">
+
+  <meta name="octolytics-dimension-user_id" content="14858025" /><meta name="octolytics-dimension-user_login" content="techarkit" /><meta name="octolytics-dimension-repository_id" content="137987008" /><meta name="octolytics-dimension-repository_nwo" content="techarkit/Linux-For-Beginners" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="137987008" /><meta name="octolytics-dimension-repository_network_root_nwo" content="techarkit/Linux-For-Beginners" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
+
+
+    <link rel="canonical" href="https://github.com/techarkit/Linux-For-Beginners" data-pjax-transient>
+
+
+  <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+
+  <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+
+  <link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+  <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png">
+  <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg">
+
+<meta name="theme-color" content="#1e2327">
+
+
+  <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
+
+  </head>
+
+  <body class="logged-out env-production min-width-lg">
+    
+
+    <div class="position-relative js-header-wrapper ">
+      <a href="#start-of-content" class="px-2 py-4 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
+      <span class="Progress progress-pjax-loader position-fixed width-full js-pjax-loader-bar">
+        <span class="progress-pjax-loader-bar top-0 left-0" style="width: 0%;"></span>
+      </span>
+
+      
+      
+
+
+
+          <header class="Header-old header-logged-out  position-relative f4 py-2" role="banner">
+  <div class="container-lg d-flex px-3">
+    <div class="d-flex flex-justify-between flex-items-center">
+        <a class="mr-4" href="https://github.com/" aria-label="Homepage" data-ga-click="(Logged out) Header, go to homepage, icon:logo-wordmark">
+          <svg height="32" class="octicon octicon-mark-github text-white" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+        </a>
+    </div>
+
+    <div class="HeaderMenu HeaderMenu--logged-out d-flex flex-justify-between flex-items-center flex-auto">
+      <div class="d-none">
+        <button class="btn-link js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
+          <svg height="24" class="octicon octicon-x text-gray" viewBox="0 0 12 16" version="1.1" width="18" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
+        </button>
+      </div>
+
+        <nav class="mt-0" aria-label="Global">
+          <ul class="d-flex list-style-none">
+              <li class=" mr-3 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center ">
+                <details class="HeaderMenu-details details-overlay details-reset width-full">
+                  <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap  d-inline-block">
+                    Why GitHub?
+                    <svg x="0px" y="0px" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-relative">
+                      <path d="M1,1l6.2,6L13,1"></path>
+                    </svg>
+                  </summary>
+                  <div class="dropdown-menu flex-auto rounded-1 bg-white px-0 mt-0  p-4 left-n4 position-absolute">
+                    <a href="/features" class="py-2 lh-condensed-ultra d-block link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Features">Features <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a>
+                    <ul class="list-style-none f5 pb-3">
+                      <li class="edge-item-fix"><a href="/features/code-review/" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Code review">Code review</a></li>
+                      <li class="edge-item-fix"><a href="/features/project-management/" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Project management">Project management</a></li>
+                      <li class="edge-item-fix"><a href="/features/integrations" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Integrations">Integrations</a></li>
+                      <li class="edge-item-fix"><a href="/features/actions" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Actions">Actions</a></li>
+                      <li class="edge-item-fix"><a href="/features/packages" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to GitHub Packages">Packages</a></li>
+                      <li class="edge-item-fix"><a href="/features/security" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Security">Security</a></li>
+                      <li class="edge-item-fix"><a href="/features#team-management" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Team management">Team management</a></li>
+                      <li class="edge-item-fix"><a href="/features#hosting" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Code hosting">Hosting</a></li>
+                    </ul>
+
+                    <ul class="list-style-none mb-0 border-lg-top pt-lg-3">
+                      <li class="edge-item-fix"><a href="/customer-stories" class="py-2 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Customer stories">Customer stories <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                      <li class="edge-item-fix"><a href="/security" class="py-2 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Security">Security <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                    </ul>
+                  </div>
+                </details>
+              </li>
+                <li class=" mr-3 mr-lg-3">
+                  <a href="/team" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-ga-click="(Logged out) Header, go to Team">Team</a>
+                </li>
+              <li class=" mr-3 mr-lg-3">
+                <a href="/enterprise" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-ga-click="(Logged out) Header, go to Enterprise">Enterprise</a>
+              </li>
+
+              <li class=" mr-3 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center ">
+                <details class="HeaderMenu-details details-overlay details-reset width-full">
+                  <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap  d-inline-block">
+                    Explore
+                    <svg x="0px" y="0px" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-relative">
+                      <path d="M1,1l6.2,6L13,1"></path>
+                    </svg>
+                  </summary>
+
+                  <div class="dropdown-menu flex-auto rounded-1 bg-white px-0 pt-2 pb-0 mt-0  p-4 left-n4 position-absolute">
+                    <ul class="list-style-none mb-3">
+                      <li class="edge-item-fix"><a href="/explore" class="py-2 lh-condensed-ultra d-block link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Explore">Explore GitHub <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                    </ul>
+
+                    <h4 class="text-gray-light text-normal text-mono f5 mb-2  border-top pt-3">Learn &amp; contribute</h4>
+                    <ul class="list-style-none mb-3">
+                      <li class="edge-item-fix"><a href="/topics" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Topics">Topics</a></li>
+                        <li class="edge-item-fix"><a href="/collections" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Collections">Collections</a></li>
+                      <li class="edge-item-fix"><a href="/trending" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Trending">Trending</a></li>
+                      <li class="edge-item-fix"><a href="https://lab.github.com/" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Learning lab">Learning Lab</a></li>
+                      <li class="edge-item-fix"><a href="https://opensource.guide" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Open source guides">Open source guides</a></li>
+                    </ul>
+
+                    <h4 class="text-gray-light text-normal text-mono f5 mb-2  border-top pt-3">Connect with others</h4>
+                    <ul class="list-style-none mb-0">
+                      <li class="edge-item-fix"><a href="https://github.com/events" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Events">Events</a></li>
+                      <li class="edge-item-fix"><a href="https://github.community" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Community forum">Community forum</a></li>
+                      <li class="edge-item-fix"><a href="https://education.github.com" class="py-2 pb-0 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to GitHub Education">GitHub Education</a></li>
+                    </ul>
+                  </div>
+                </details>
+              </li>
+
+              <li class=" mr-3 mr-lg-3">
+                <a href="/marketplace" class="HeaderMenu-link no-underline py-3 d-block d-lg-inline-block" data-ga-click="(Logged out) Header, go to Marketplace">Marketplace</a>
+              </li>
+
+              <li class=" mr-3 mr-lg-3 edge-item-fix position-relative flex-wrap flex-justify-between d-flex flex-items-center ">
+                <details class="HeaderMenu-details details-overlay details-reset width-full">
+                  <summary class="HeaderMenu-summary HeaderMenu-link px-0 py-3 border-0 no-wrap  d-inline-block">
+                    Pricing
+                    <svg x="0px" y="0px" viewBox="0 0 14 8" xml:space="preserve" fill="none" class="icon-chevon-down-mktg position-relative">
+                       <path d="M1,1l6.2,6L13,1"></path>
+                    </svg>
+                  </summary>
+
+                  <div class="dropdown-menu flex-auto rounded-1 bg-white px-0 pt-2 pb-4 mt-0  p-4 left-n4 position-absolute">
+                    <a href="/pricing" class="pb-2 lh-condensed-ultra d-block link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Pricing">Plans <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a>
+
+                    <ul class="list-style-none mb-3">
+                      <li class="edge-item-fix"><a href="/pricing#feature-comparison" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Compare plans">Compare plans</a></li>
+                      <li class="edge-item-fix"><a href="https://enterprise.github.com/contact" class="py-2 lh-condensed-ultra d-block link-gray no-underline f5" data-ga-click="(Logged out) Header, go to Contact Sales">Contact Sales</a></li>
+                    </ul>
+
+                    <ul class="list-style-none mb-0  border-top pt-3">
+                      <li class="edge-item-fix"><a href="/nonprofit" class="py-2 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover" data-ga-click="(Logged out) Header, go to Nonprofits">Nonprofit <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                      <li class="edge-item-fix"><a href="https://education.github.com" class="py-2 pb-0 lh-condensed-ultra d-block no-underline link-gray-dark no-underline h5 Bump-link--hover"  data-ga-click="(Logged out) Header, go to Education">Education <span class="Bump-link-symbol float-right text-normal text-gray-light">&rarr;</span></a></li>
+                    </ul>
+                  </div>
+                </details>
+              </li>
+          </ul>
+        </nav>
+
+      <div class="d-flex flex-items-center px-0 text-center text-left">
+          <div class="d-lg-flex ">
+            <div class="header-search mr-3 scoped-search site-scoped-search js-site-search position-relative js-jump-to"
+  role="combobox"
+  aria-owns="jump-to-results"
+  aria-label="Search or jump to"
+  aria-haspopup="listbox"
+  aria-expanded="false"
+>
+  <div class="position-relative">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="137987008" data-scoped-search-url="/techarkit/Linux-For-Beginners/search" data-unscoped-search-url="/search" action="/techarkit/Linux-For-Beginners/search" accept-charset="UTF-8" method="get">
+      <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
+        <input type="text"
+          class="form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+          data-hotkey="s,/"
+          name="q"
+          value=""
+          placeholder="Search"
+          data-unscoped-placeholder="Search GitHub"
+          data-scoped-placeholder="Search"
+          autocapitalize="off"
+          aria-autocomplete="list"
+          aria-controls="jump-to-results"
+          aria-label="Search"
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations"
+          spellcheck="false"
+          autocomplete="off"
+          >
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="PoS5S2D3KDR/LxX37JbV9WytF5Fd3mwiHsGyPTWc3afBZkKlEUk2L/VHJ4D4yeu1mE0DXfTiPRO4/NHWwEuEdQ==" />
+          <input type="hidden" class="js-site-search-type-field" name="type" >
+            <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
+
+            <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
+              
+<ul class="d-none js-jump-to-suggestions-template-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0013 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 000-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"></path></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+</ul>
+
+<ul class="d-none js-jump-to-no-results-template-container">
+  <li class="d-flex flex-justify-center flex-items-center f5 d-none js-jump-to-suggestion p-2">
+    <span class="text-gray">No suggested jump to results</span>
+  </li>
+</ul>
+
+<ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0013 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 000-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"></path></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+  
+
+<li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none" role="option">
+  <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="">
+    <div class="jump-to-octicon js-jump-to-octicon flex-shrink-0 mr-2 text-center d-none">
+      <svg height="16" width="16" class="octicon octicon-repo flex-shrink-0 js-jump-to-octicon-repo d-none" title="Repository" aria-label="Repository" viewBox="0 0 12 16" version="1.1" role="img"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-project flex-shrink-0 js-jump-to-octicon-project d-none" title="Project" aria-label="Project" viewBox="0 0 15 16" version="1.1" role="img"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"></path></svg>
+      <svg height="16" width="16" class="octicon octicon-search flex-shrink-0 js-jump-to-octicon-search d-none" title="Search" aria-label="Search" viewBox="0 0 16 16" version="1.1" role="img"><path fill-rule="evenodd" d="M15.7 13.3l-3.81-3.83A5.93 5.93 0 0013 6c0-3.31-2.69-6-6-6S1 2.69 1 6s2.69 6 6 6c1.3 0 2.48-.41 3.47-1.11l3.83 3.81c.19.2.45.3.7.3.25 0 .52-.09.7-.3a.996.996 0 000-1.41v.01zM7 10.7c-2.59 0-4.7-2.11-4.7-4.7 0-2.59 2.11-4.7 4.7-4.7 2.59 0 4.7 2.11 4.7 4.7 0 2.59-2.11 4.7-4.7 4.7z"></path></svg>
+    </div>
+
+    <img class="avatar mr-2 flex-shrink-0 js-jump-to-suggestion-avatar d-none" alt="" aria-label="Team" src="" width="28" height="28">
+
+    <div class="jump-to-suggestion-name js-jump-to-suggestion-name flex-auto overflow-hidden text-left no-wrap css-truncate css-truncate-target">
+    </div>
+
+    <div class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none js-jump-to-badge-search">
+      <span class="js-jump-to-badge-search-text-default d-none" aria-label="in this repository">
+        In this repository
+      </span>
+      <span class="js-jump-to-badge-search-text-global d-none" aria-label="in all of GitHub">
+        All GitHub
+      </span>
+      <span aria-hidden="true" class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+
+    <div aria-hidden="true" class="border rounded-1 flex-shrink-0 bg-gray px-1 text-gray-light ml-1 f6 d-none d-on-nav-focus js-jump-to-badge-jump">
+      Jump to
+      <span class="d-inline-block ml-1 v-align-middle">↵</span>
+    </div>
+  </a>
+</li>
+
+
+</ul>
+
+            </div>
+      </label>
+</form>  </div>
+</div>
+
+          </div>
+
+        <a href="/login?return_to=%2Ftecharkit%2FLinux-For-Beginners"
+          class="HeaderMenu-link no-underline mr-3"
+          data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/techarkit/Linux-For-Beginners&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="dcbfbfc198806cf71cd02f29824716532bfacc0ed8d56dbe554aadcd3da7962b"
+          data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
+          Sign&nbsp;in
+        </a>
+            <a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&amp;source_repo=techarkit%2FLinux-For-Beginners"
+              class="HeaderMenu-link d-inline-block no-underline border border-gray-dark rounded-1 px-2 py-1"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/techarkit/Linux-For-Beginners&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="dcbfbfc198806cf71cd02f29824716532bfacc0ed8d56dbe554aadcd3da7962b"
+              data-ga-click="Sign up, click to sign up for account, ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;;ref_cta:Sign up;ref_loc:header logged out">
+              Sign&nbsp;up
+            </a>
+      </div>
+    </div>
+  </div>
+</header>
+
+    </div>
+
+  <div id="start-of-content" class="show-on-focus"></div>
+
+
+
+
+    <div id="js-flash-container">
+
+
+  <template class="js-flash-template">
+    <div class="flash flash-full  js-flash-template-container">
+  <div class="container-lg px-2" >
+    <button class="flash-close js-flash-close" type="button" aria-label="Dismiss this message">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
+    </button>
+    
+      <div class="js-flash-template-message"></div>
+
+  </div>
+</div>
+  </template>
+</div>
+
+
+      
+
+  <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
+
+
+
+
+  <div class="application-main " data-commit-hovercards-enabled>
+        <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
+    <main id="js-repo-pjax-container" data-pjax-container >
+      
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  <div class="pagehead repohead hx_repohead readability-menu bg-gray-light pb-0 pt-3">
+
+    <div class="d-flex container-lg mb-4 px-3">
+
+      <div class="flex-auto min-width-0 width-fit mr-3">
+        <h1 class="public  d-flex flex-wrap flex-items-center break-word float-none ">
+  <span class="flex-self-stretch" style="margin-top: -2px;">
+      <svg class="octicon octicon-repo" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
+  </span>
+  <span class="author ml-2 flex-self-stretch" itemprop="author">
+    <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/techarkit/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/techarkit">techarkit</a>
+  </span>
+  <span class="path-divider flex-self-stretch">/</span>
+  <strong itemprop="name" class="mr-2 flex-self-stretch">
+    <a data-pjax="#js-repo-pjax-container" href="/techarkit/Linux-For-Beginners">Linux-For-Beginners</a>
+  </strong>
+  
+</h1>
+
+
+      </div>
+
+      <ul class="pagehead-actions flex-shrink-0 " >
+
+
+
+
+  <li>
+    
+  <a class="tooltipped tooltipped-s btn btn-sm btn-with-count" aria-label="You must be signed in to watch a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/techarkit/Linux-For-Beginners&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8980da7ca69a01da75bfe38135aee1b3fb204d7fbba5ada96016f193762142a3" href="/login?return_to=%2Ftecharkit%2FLinux-For-Beginners">
+    <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"></path></svg>
+    Watch
+</a>    <a class="social-count" href="/techarkit/Linux-For-Beginners/watchers"
+       aria-label="5 users are watching this repository">
+      5
+    </a>
+
+  </li>
+
+  <li>
+        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:137987008,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/techarkit/Linux-For-Beginners&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b1bc70eb1cf62dcf36cd0c41d32cb89dfe26cecd0094ef8e2525a5eaa77bb9cc" href="/login?return_to=%2Ftecharkit%2FLinux-For-Beginners">
+      <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"></path></svg>
+
+      Star
+</a>
+    <a class="social-count js-social-count" href="/techarkit/Linux-For-Beginners/stargazers"
+      aria-label="26 users starred this repository">
+      26
+    </a>
+
+  </li>
+
+  <li>
+      <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:137987008,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/techarkit/Linux-For-Beginners&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d11bb82f8702b0a06020bdef1eb8293a8aa4230f6c5b992c176538df89fe0a06" href="/login?return_to=%2Ftecharkit%2FLinux-For-Beginners">
+        <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
+        Fork
+</a>
+    <a href="/techarkit/Linux-For-Beginners/network/members" class="social-count"
+       aria-label="28 users forked this repository">
+      28
+    </a>
+  </li>
+</ul>
+
+    </div>
+      <nav class="js-repo-nav js-sidenav-container-pjax clearfix hx_reponav reponav px-3 container-lg"
+     itemscope
+     itemtype="http://schema.org/BreadcrumbList"
+    aria-label="Repository"
+     data-pjax="#js-repo-pjax-container">
+  <ul class="list-style-none">
+    <li  itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a class="js-selected-navigation-item selected reponav-item" itemprop="url" data-hotkey="g c" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /techarkit/Linux-For-Beginners" href="/techarkit/Linux-For-Beginners">
+        <div class="d-inline"><svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"></path></svg></div>
+        <span itemprop="name">Code</span>
+        <meta itemprop="position" content="1">
+</a>    </li>
+
+      <li  itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a itemprop="url" data-hotkey="g i" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /techarkit/Linux-For-Beginners/issues" href="/techarkit/Linux-For-Beginners/issues">
+          <div class="d-inline"><svg class="octicon octicon-issue-opened" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 011.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></div>
+          <span itemprop="name">Issues</span>
+          <span class="Counter">0</span>
+          <meta itemprop="position" content="2">
+</a>      </li>
+
+    <li  itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a data-hotkey="g p" data-skip-pjax="true" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /techarkit/Linux-For-Beginners/pulls" href="/techarkit/Linux-For-Beginners/pulls">
+        <div class="d-inline"><svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0010 15a1.993 1.993 0 001-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 00-1 3.72v6.56A1.993 1.993 0 002 15a1.993 1.993 0 001-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg></div>
+        <span itemprop="name">Pull requests</span>
+        <span class="Counter">0</span>
+        <meta itemprop="position" content="4">
+</a>    </li>
+
+
+      <li itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement" class="position-relative float-left ">
+        <a data-hotkey="g w" data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="repo_actions /techarkit/Linux-For-Beginners/actions" href="/techarkit/Linux-For-Beginners/actions">
+          <div class="d-inline"><svg class="octicon octicon-play" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M14 8A7 7 0 110 8a7 7 0 0114 0zm-8.223 3.482l4.599-3.066a.5.5 0 000-.832L5.777 4.518A.5.5 0 005 4.934v6.132a.5.5 0 00.777.416z"></path></svg></div>
+          Actions
+</a>
+      </li>
+
+      <li >
+        <a data-hotkey="g b" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /techarkit/Linux-For-Beginners/projects" href="/techarkit/Linux-For-Beginners/projects">
+          <div class="d-inline"><svg class="octicon octicon-project" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 00-1 1v14a1 1 0 001 1h13a1 1 0 001-1V1a1 1 0 00-1-1z"></path></svg></div>
+          Projects
+          <span class="Counter">0</span>
+</a>      </li>
+
+
+      <li >
+        <a data-skip-pjax="true" class="js-selected-navigation-item reponav-item" data-selected-links="security overview alerts policy token_scanning code_scanning /techarkit/Linux-For-Beginners/security" href="/techarkit/Linux-For-Beginners/security">
+          <div class="d-inline"><svg class="octicon octicon-shield" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 2l7-2 7 2v6.02C14 12.69 8.69 16 7 16c-1.69 0-7-3.31-7-7.98V2zm1 .75L7 1l6 1.75v5.268C13 12.104 8.449 15 7 15c-1.449 0-6-2.896-6-6.982V2.75zm1 .75L7 2v12c-1.207 0-5-2.482-5-5.985V3.5z"></path></svg></div>
+          Security
+              <span class="Counter js-security-tab-count" data-url="/techarkit/Linux-For-Beginners/security/overall-count" hidden></span>
+</a>      </li>
+
+      <li >
+        <a class="js-selected-navigation-item reponav-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people /techarkit/Linux-For-Beginners/pulse" href="/techarkit/Linux-For-Beginners/pulse">
+          <div class="d-inline"><svg class="octicon octicon-graph" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"></path></svg></div>
+          Insights
+</a>      </li>
+
+
+  </ul>
+</nav>
+
+
+  </div>
+
+
+<div class="container-lg clearfix new-discussion-timeline  px-3">
+  <div class="repository-content ">
+
+    
+    
+  <div class="d-none d-lg-block mt-6 mr-3 Popover top-0 right-0 box-shadow-medium col-3">
+    
+  </div>
+
+    <signup-prompt-controller class="signup-prompt-bg rounded-1" data-prompt="signup" hidden>
+    <div class="signup-prompt p-4 text-center mb-4 rounded-1">
+      <div class="position-relative">
+        <button
+          type="button"
+          class="position-absolute top-0 right-0 btn-link link-gray"
+          data-action="click:signup-prompt-controller#dismiss"
+          data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss"
+        >
+          Dismiss
+        </button>
+        <h3 class="pt-2">Join GitHub today</h3>
+        <p class="col-6 mx-auto">GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.</p>
+        <a class="btn btn-primary" data-ga-click="(Logged out) Sign up prompt, clicked Sign up, text:sign-up" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;files signup prompt&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/techarkit/Linux-For-Beginners&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="bede923b46451febab657d52e76880459fdb3fefcd80c05d3cb087e7c92f18d2" href="/join?source=prompt-code&amp;source_repo=techarkit%2FLinux-For-Beginners">Sign up</a>
+      </div>
+    </div>
+  </signup-prompt-controller>
+
+
+
+      <div class="">  <div class="f4">
+        <span class="text-gray-dark mr-2" itemprop="about">
+          A Red Hat Certified System Administrator (RHCSA) - EX200
+        </span>
+        <span itemprop="url"><a rel="nofollow" href="https://www.server-computer.com">https://www.server-computer.com</a></span>
+  </div>
+</div>
+
+    <div class="repository-topics-container mt-2 mb-3 js-topics-list-container">  <div class="list-topics-container f6">
+      <a class="topic-tag topic-tag-link " href="/topics/rhcsa" title="Topic: rhcsa" data-ga-click="Topic, repository page" data-octo-click="topic_click" data-octo-dimensions="topic:rhcsa">
+  rhcsa
+</a>
+
+      <a class="topic-tag topic-tag-link " href="/topics/ex200" title="Topic: ex200" data-ga-click="Topic, repository page" data-octo-click="topic_click" data-octo-dimensions="topic:ex200">
+  ex200
+</a>
+
+      <a class="topic-tag topic-tag-link " href="/topics/linux" title="Topic: linux" data-ga-click="Topic, repository page" data-octo-click="topic_click" data-octo-dimensions="topic:linux">
+  linux
+</a>
+
+      <a class="topic-tag topic-tag-link " href="/topics/linux-server" title="Topic: linux-server" data-ga-click="Topic, repository page" data-octo-click="topic_click" data-octo-dimensions="topic:linux-server">
+  linux-server
+</a>
+
+      <a class="topic-tag topic-tag-link " href="/topics/linux-desktop" title="Topic: linux-desktop" data-ga-click="Topic, repository page" data-octo-click="topic_click" data-octo-dimensions="topic:linux-desktop">
+  linux-desktop
+</a>
+
+      <a class="topic-tag topic-tag-link " href="/topics/redhat7" title="Topic: redhat7" data-ga-click="Topic, repository page" data-octo-click="topic_click" data-octo-dimensions="topic:redhat7">
+  redhat7
+</a>
+
+      <a class="topic-tag topic-tag-link " href="/topics/redhat-enterprise-linux" title="Topic: redhat-enterprise-linux" data-ga-click="Topic, repository page" data-octo-click="topic_click" data-octo-dimensions="topic:redhat-enterprise-linux">
+  redhat-enterprise-linux
+</a>
+
+  </div>
+</div>
+
+
+
+      <div class="overall-summary">
+    <ul class="numbers-summary">
+      <li class="commits">
+        <a data-pjax href="/techarkit/Linux-For-Beginners/commits/master">
+            <svg class="octicon octicon-git-commit" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.86 7c-.45-1.72-2-3-3.86-3-1.86 0-3.41 1.28-3.86 3H0v2h3.14c.45 1.72 2 3 3.86 3 1.86 0 3.41-1.28 3.86-3H14V7h-3.14zM7 10.2c-1.22 0-2.2-.98-2.2-2.2 0-1.22.98-2.2 2.2-2.2 1.22 0 2.2.98 2.2 2.2 0 1.22-.98 2.2-2.2 2.2z"></path></svg>
+            <span class="num text-emphasized">
+              26
+            </span>
+            commits
+        </a>
+      </li>
+      <li>
+        <a data-pjax href="/techarkit/Linux-For-Beginners/branches">
+          <svg class="octicon octicon-git-branch" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 00-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 00-1-3.72C.88 1 0 1.89 0 3a2 2 0 001 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"></path></svg>
+          <span class="num text-emphasized">
+            1
+          </span>
+          branch
+        </a>
+      </li>
+
+        <li>
+          <a data-pjax href="/techarkit/Linux-For-Beginners/packages" data-ga-click="Repository, packages click, location:repo overview">
+            <svg class="octicon octicon-package" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1 4.27v7.47c0 .45.3.84.75.97l6.5 1.73c.16.05.34.05.5 0l6.5-1.73c.45-.13.75-.52.75-.97V4.27c0-.45-.3-.84-.75-.97l-6.5-1.74a1.4 1.4 0 00-.5 0L1.75 3.3c-.45.13-.75.52-.75.97zm7 9.09l-6-1.59V5l6 1.61v6.75zM2 4l2.5-.67L11 5.06l-2.5.67L2 4zm13 7.77l-6 1.59V6.61l2-.55V8.5l2-.53V5.53L15 5v6.77zm-2-7.24L6.5 2.8l2-.53L15 4l-2 .53z"></path></svg>
+            <span class="num text-emphasized">
+              0
+            </span>
+            packages
+          </a>
+
+        </li>
+
+      <li>
+        <a href="/techarkit/Linux-For-Beginners/releases">
+          <svg class="octicon octicon-tag" viewBox="0 0 15 16" version="1.1" width="15" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.73 1.73C7.26 1.26 6.62 1 5.96 1H3.5C2.13 1 1 2.13 1 3.5v2.47c0 .66.27 1.3.73 1.77l6.06 6.06c.39.39 1.02.39 1.41 0l4.59-4.59a.996.996 0 000-1.41L7.73 1.73zM2.38 7.09c-.31-.3-.47-.7-.47-1.13V3.5c0-.88.72-1.59 1.59-1.59h2.47c.42 0 .83.16 1.13.47l6.14 6.13-4.73 4.73-6.13-6.15zM3.01 3h2v2H3V3h.01z"></path></svg>
+          <span class="num text-emphasized">
+            0
+          </span>
+          releases
+        </a>
+      </li>
+
+        <li >
+            <include-fragment src="/techarkit/Linux-For-Beginners/contributors_size">
+              <a href="/techarkit/Linux-For-Beginners/graphs/contributors">
+                <svg class="octicon octicon-organization" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M16 12.999c0 .439-.45 1-1 1H7.995c-.539 0-.994-.447-.995-.999H1c-.54 0-1-.561-1-1 0-2.634 3-4 3-4s.229-.409 0-1c-.841-.621-1.058-.59-1-3 .058-2.419 1.367-3 2.5-3s2.442.58 2.5 3c.058 2.41-.159 2.379-1 3-.229.59 0 1 0 1s1.549.711 2.42 2.088C9.196 9.369 10 8.999 10 8.999s.229-.409 0-1c-.841-.62-1.058-.59-1-3 .058-2.419 1.367-3 2.5-3s2.437.581 2.495 3c.059 2.41-.158 2.38-1 3-.229.59 0 1 0 1s3.005 1.366 3.005 4z"></path></svg>
+                <span class="num text-emphasized"></span>
+                Fetching contributors
+              </a>
+</include-fragment>        </li>
+
+    </ul>
+  </div>
+
+
+
+
+
+
+
+<div class="file-navigation in-mid-page mb-2 d-flex flex-items-start">
+  
+<details class="details-reset details-overlay branch-select-menu " id="branch-select-menu">
+  <summary class="btn css-truncate btn-sm"
+           data-hotkey="w"
+           title="Switch branches or tags">
+    <i>Branch:</i>
+    <span class="css-truncate-target" data-menu-button>master</span>
+    <span class="dropdown-caret"></span>
+  </summary>
+
+  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/techarkit/Linux-For-Beginners/refs/master?source_action=disambiguate&amp;source_controller=files" preload>
+    <div class="SelectMenu-modal">
+      <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
+        <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"></path></svg>
+      </include-fragment>
+    </div>
+  </details-menu>
+</details>
+
+
+        <button type="button" class="btn btn-sm disabled tooltipped tooltipped-n new-pull-request-btn ml-2" aria-label="You must be signed in to create a pull request">
+          New pull request
+        </button>
+
+  <div class="breadcrumb flex-auto">
+    
+  </div>
+
+    <div class="BtnGroup ml-2">
+
+      <a class="btn btn-sm empty-icon float-right BtnGroup-item" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:137987008,&quot;originating_url&quot;:&quot;https://github.com/techarkit/Linux-For-Beginners&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f177911608152b0842dee4d82c88320a48336a18840ae75731840162ec87fb70" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/techarkit/Linux-For-Beginners/find/master">Find file</a>
+    </div>
+
+
+    <span class="d-flex">
+        
+
+          
+<get-repo-controller>
+  <details class="position-relative details-overlay details-reset" data-action="toggle:get-repo-controller#onDetailsToggle">
+    <summary class="btn btn-sm ml-2 btn-primary" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;repository_id&quot;:137987008,&quot;target&quot;:&quot;CLONE_OR_DOWNLOAD_BUTTON&quot;,&quot;originating_url&quot;:&quot;https://github.com/techarkit/Linux-For-Beginners&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="46ea1e7cc988a5d408503358853140ce183d1e285bce4a850c3417f46eeece39">
+        Clone or download
+      <span class="dropdown-caret"></span>
+</summary>    <div class="position-relative">
+      <div class="get-repo-modal dropdown-menu dropdown-menu-sw pb-0 js-toggler-container " style="top:6px;width:352px;">
+
+        <div data-target="get-repo-controller.modal">
+            <div class="clone-options https-clone-options">
+
+              <h4 class="mb-1">
+                Clone with HTTPS
+                <a class="muted-link" href="https://help.github.com/articles/which-remote-url-should-i-use" target="_blank" title="Which remote URL should I use?">
+                  <svg class="octicon octicon-question" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6 10h2v2H6v-2zm4-3.5C10 8.64 8 9 8 9H6c0-.55.45-1 1-1h.5c.28 0 .5-.22.5-.5v-1c0-.28-.22-.5-.5-.5h-1c-.28 0-.5.22-.5.5V7H4c0-1.5 1.5-3 3-3s3 1 3 2.5zM7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 011.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7z"></path></svg>
+                </a>
+              </h4>
+              <p class="mb-2 get-repo-decription-text">
+                Use Git or checkout with SVN using the web URL.
+              </p>
+
+              <div class="input-group">
+  <input type="text" class="form-control input-monospace input-sm" data-autoselect value="https://github.com/techarkit/Linux-For-Beginners.git" aria-label="Clone this repository at https://github.com/techarkit/Linux-For-Beginners.git" readonly>
+  <div class="input-group-button">
+    <clipboard-copy value="https://github.com/techarkit/Linux-For-Beginners.git" aria-label="Copy to clipboard" class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;COPY_URL&quot;,&quot;git_repository_type&quot;:&quot;REPOSITORY&quot;,&quot;repository_id&quot;:137987008,&quot;originating_url&quot;:&quot;https://github.com/techarkit/Linux-For-Beginners&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e0cf066bea211d15da104b2144474f9dba1b32fae1074a0beef8f30595ee410c"><svg class="octicon octicon-clippy" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 13h4v1H2v-1zm5-6H2v1h5V7zm2 3V8l-3 3 3 3v-2h5v-2H9zM4.5 9H2v1h2.5V9zM2 12h2.5v-1H2v1zm9 1h1v2c-.02.28-.11.52-.3.7-.19.18-.42.28-.7.3H1c-.55 0-1-.45-1-1V4c0-.55.45-1 1-1h3c0-1.11.89-2 2-2 1.11 0 2 .89 2 2h3c.55 0 1 .45 1 1v5h-1V6H1v9h10v-2zM2 5h8c0-.55-.45-1-1-1H8c-.55 0-1-.45-1-1s-.45-1-1-1-1 .45-1 1-.45 1-1 1H3c-.55 0-1 .45-1 1z"></path></svg></clipboard-copy>
+  </div>
+</div>
+
+            </div>
+
+          <div class="mt-2 d-flex">
+            <a class="btn btn-outline get-repo-btn tooltipped tooltipped-s tooltipped-multiline js-remove-unless-platform" aria-label="Clone techarkit/Linux-For-Beginners to your computer and use it in GitHub Desktop." data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;OPEN_IN_DESKTOP&quot;,&quot;git_repository_type&quot;:&quot;REPOSITORY&quot;,&quot;repository_id&quot;:137987008,&quot;originating_url&quot;:&quot;https://github.com/techarkit/Linux-For-Beginners&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5bda3e71c3f024ef2c65a54d023b1db73f669cca83ec5646dc3a66be31abef35" data-platforms="windows,mac" data-action="click:get-repo-controller#showDownloadMessage" href="https://desktop.github.com">Open in Desktop</a>
+
+<a class="flex-1 btn btn-outline get-repo-btn" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;DOWNLOAD_ZIP&quot;,&quot;git_repository_type&quot;:&quot;REPOSITORY&quot;,&quot;repository_id&quot;:137987008,&quot;originating_url&quot;:&quot;https://github.com/techarkit/Linux-For-Beginners&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b49e2c350c7cc054ac4ed4c821a1d7a08c167b107c860d392e308d398aa25813" data-ga-click="Repository, download zip, location:repo overview" data-open-app="link" data-action="click:get-repo-controller#showDownloadMessage" href="/techarkit/Linux-For-Beginners/archive/master.zip">Download ZIP</a>
+
+          </div>
+        </div>
+
+          <div data-target="get-repo-controller.platforms" data-platform="link" hidden>
+            <div class="py-2 px-3">
+              <h4 class="lh-condensed mb-3">Downloading<span class="AnimatedEllipsis"></span></h4>
+              <p class="text-gray">
+                Want to be notified of new releases in
+                <span class="text-bold">techarkit/Linux-For-Beginners</span>?
+              </p>
+            </div>
+            <div class="width-full d-flex">
+              <a rel="nofollow" class="get-repo-btn btn btn-outline" style="width: 50%" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;download popover&quot;,&quot;repository_id&quot;:137987008,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/techarkit/Linux-For-Beginners&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="123546d272776255311d755cf95e65a7f6f3dc88eeb0b21ba56fd0d3dd3d8e0d" href="/login?return_to=https%3A%2F%2Fgithub.com%2Ftecharkit%2FLinux-For-Beginners">Sign in</a>
+              <a rel="nofollow" class="get-repo-btn btn btn-primary" style="width: 50%" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;download popover&quot;,&quot;repository_id&quot;:137987008,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/techarkit/Linux-For-Beginners&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0c1b229bfda1e9f875376162080856c2eeb0f8beacaf9e1df14e2c8dea5bd31f" href="/join?branch=master&amp;source=download&amp;source_repo=techarkit%2FLinux-For-Beginners">Sign up</a>
+            </div>
+          </div>
+
+        <div class="py-2 px-3" data-target="get-repo-controller.platforms" data-platform="mac" hidden>
+          <h4 class="lh-condensed mb-3">Launching GitHub Desktop<span class="AnimatedEllipsis"></span></h4>
+          <p class="text-gray">If nothing happens, <a href="https://desktop.github.com/">download GitHub Desktop</a> and try again.</p>
+          <p><button class="btn-link" data-action="click:get-repo-controller#onDetailsToggle">Go back</button></p>
+        </div>
+
+        <div class="py-2 px-3" data-target="get-repo-controller.platforms" data-platform="windows" hidden>
+          <h4 class="lh-condensed mb-3">Launching GitHub Desktop<span class="AnimatedEllipsis"></span></h4>
+          <p class="text-gray">If nothing happens, <a href="https://desktop.github.com/">download GitHub Desktop</a> and try again.</p>
+          <p><button class="btn-link" data-action="click:get-repo-controller#onDetailsToggle">Go back</button></p>
+        </div>
+
+        <div class="py-2 px-3" data-target="get-repo-controller.platforms" data-platform="xcode" hidden>
+          <h4 class="lh-condensed mb-3">Launching Xcode<span class="AnimatedEllipsis"></span></h4>
+          <p class="text-gray">If nothing happens, <a href="https://developer.apple.com/xcode/">download Xcode</a> and try again.</p>
+          <p><button class="btn-link" data-action="click:get-repo-controller#onDetailsToggle">Go back</button></p>
+        </div>
+
+        <div class="py-2 px-3" data-target="get-repo-controller.platforms" data-platform="visual-studio" hidden>
+          <h4 class="lh-condensed mb-3">Launching Visual Studio<span class="AnimatedEllipsis"></span></h4>
+          <p class="text-gray">If nothing happens, <a href="https://visualstudio.github.com/">download the GitHub extension for Visual Studio</a> and try again.</p>
+          <p><button class="btn-link" data-action="click:get-repo-controller#onDetailsToggle">Go back</button></p>
+        </div>
+
+      </div>
+    </div>
+  </details>
+</get-repo-controller>
+
+
+    </span>
+</div>
+
+
+
+
+<div class="Box mb-3 Box--condensed">
+  <div class="Box-header Box-header--blue position-relative "
+    style="margin-bottom:-1px;">
+    <h2 class="sr-only">Latest commit</h2>
+    <div class="commit-tease js-details-container Details d-flex rounded-top-1 flex-auto min-width-0" data-issue-and-pr-hovercards-enabled>
+        
+    
+<div class="AvatarStack flex-self-start ">
+  <div class="AvatarStack-body" aria-label="techarkit">
+        <a class="avatar avatar-user" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/techarkit/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/techarkit">
+          <img height="20" width="20" alt="@techarkit" src="https://avatars0.githubusercontent.com/u/14858025?s=60&amp;v=4" class=" avatar-user" />
+</a>  </div>
+</div>
+
+    <div class="flex-auto f6 mr-3 min-width-0">
+      
+      <a href="/techarkit/Linux-For-Beginners/commits?author=techarkit"
+     class="commit-author tooltipped tooltipped-s user-mention"
+     aria-label="View all commits by techarkit">techarkit</a>
+
+
+  
+
+
+        <a data-pjax="true" title="Update Linux_Video_Tutorial.md" class="message text-inherit" href="/techarkit/Linux-For-Beginners/commit/2af66fd7da07c9deb142d2965ef7d2a275777bca">Update Linux_Video_Tutorial.md</a>
+
+    </div>
+    <div class="no-wrap d-flex flex-self-start flex-items-baseline">
+        <span class="mr-2 flex-self-center">
+          <include-fragment accept="text/fragment+html" src="/techarkit/Linux-For-Beginners/commit/2af66fd7da07c9deb142d2965ef7d2a275777bca/rollup?direction=w" class="d-inline"></include-fragment>
+        </span>
+      <span class="mr-1">Latest commit</span>
+      <a class="commit-tease-sha mr-1" href="/techarkit/Linux-For-Beginners/commit/2af66fd7da07c9deb142d2965ef7d2a275777bca" data-pjax>
+        2af66fd
+      </a>
+      <span itemprop="dateModified"><relative-time datetime="2020-04-22T19:27:08Z" class="no-wrap">Apr 23, 2020</relative-time></span>
+    </div>
+    </div>
+  </div>
+  <h2 id="files"  class="sr-only">Files</h2>
+  
+
+
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/techarkit/Linux-For-Beginners/tree/2af66fd7da07c9deb142d2965ef7d2a275777bca">Permalink</a>
+
+    <table class="files js-navigation-container js-active-navigation-container " data-pjax>
+      <thead>
+        <tr>
+          <th><span class="sr-only">Type</span></th>
+          <th><span class="sr-only">Name</span></th>
+          <th><span class="sr-only">Latest commit message</span></th>
+          <th><span class="sr-only">Commit time</span></th>
+        </tr>
+      </thead>
+
+
+      <tbody>
+        <tr class="warning include-fragment-error">
+          <td class="icon"><svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 00.01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></td>
+          <td class="content" colspan="3">Failed to load latest commit information.</td>
+        </tr>
+
+          <tr class="js-navigation-item">
+            <td class="icon">
+              <svg aria-label="file" class="octicon octicon-file" viewBox="0 0 12 16" version="1.1" width="12" height="16" role="img"><path fill-rule="evenodd" d="M6 5H2V4h4v1zM2 8h7V7H2v1zm0 2h7V9H2v1zm0 2h7v-1H2v1zm10-7.5V14c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h7.5L12 4.5zM11 5L8 2H1v12h10V5z"></path></svg>
+              <img width="16" height="16" class="spinner" alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-32.gif" />
+            </td>
+            <td class="content">
+              <span class="css-truncate css-truncate-target"><a class="js-navigation-open " title="81 Linux commands.pdf" id="a847bbfafebb0ed5e4a085b13f520938-0978d91c2320721c4544fca3941bd44cda27b124" href="/techarkit/Linux-For-Beginners/blob/master/81%20Linux%20commands.pdf">81 Linux commands.pdf</a></span>
+            </td>
+            <td class="message">
+              <span class="css-truncate css-truncate-target">
+                    <a data-pjax="true" title="Add files via upload" class="link-gray" href="/techarkit/Linux-For-Beginners/commit/cea9690960befd297231674c6d88361dedaad09d">Add files via upload</a>
+              </span>
+            </td>
+            <td class="age">
+              <span class="css-truncate css-truncate-target"><time-ago datetime="2019-07-12T09:18:21Z" class="no-wrap">Jul 12, 2019</time-ago></span>
+            </td>
+          </tr>
+          <tr class="js-navigation-item">
+            <td class="icon">
+              <svg aria-label="file" class="octicon octicon-file" viewBox="0 0 12 16" version="1.1" width="12" height="16" role="img"><path fill-rule="evenodd" d="M6 5H2V4h4v1zM2 8h7V7H2v1zm0 2h7V9H2v1zm0 2h7v-1H2v1zm10-7.5V14c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h7.5L12 4.5zM11 5L8 2H1v12h10V5z"></path></svg>
+              <img width="16" height="16" class="spinner" alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-32.gif" />
+            </td>
+            <td class="content">
+              <span class="css-truncate css-truncate-target"><a class="js-navigation-open " title="Download-Linux-Books.md" id="35dfa05a5198b10769fb3c113fa3356b-eb4a736f05d6fc0a7fca9d510169bf4e033449b0" href="/techarkit/Linux-For-Beginners/blob/master/Download-Linux-Books.md">Download-Linux-Books.md</a></span>
+            </td>
+            <td class="message">
+              <span class="css-truncate css-truncate-target">
+                    <a data-pjax="true" title="Update Download-Linux-Books.md" class="link-gray" href="/techarkit/Linux-For-Beginners/commit/0b42388cb5a65f26b656c574d026098c6bd2ef33">Update Download-Linux-Books.md</a>
+              </span>
+            </td>
+            <td class="age">
+              <span class="css-truncate css-truncate-target"><time-ago datetime="2020-04-05T10:19:19Z" class="no-wrap">Apr 5, 2020</time-ago></span>
+            </td>
+          </tr>
+          <tr class="js-navigation-item">
+            <td class="icon">
+              <svg aria-label="file" class="octicon octicon-file" viewBox="0 0 12 16" version="1.1" width="12" height="16" role="img"><path fill-rule="evenodd" d="M6 5H2V4h4v1zM2 8h7V7H2v1zm0 2h7V9H2v1zm0 2h7v-1H2v1zm10-7.5V14c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h7.5L12 4.5zM11 5L8 2H1v12h10V5z"></path></svg>
+              <img width="16" height="16" class="spinner" alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-32.gif" />
+            </td>
+            <td class="content">
+              <span class="css-truncate css-truncate-target"><a class="js-navigation-open " title="Linux commands.pdf" id="691084a5b68737a857dac46368fa510d-3cfdd28c47872fa5434b9fe9f79dd6d183672444" href="/techarkit/Linux-For-Beginners/blob/master/Linux%20commands.pdf">Linux commands.pdf</a></span>
+            </td>
+            <td class="message">
+              <span class="css-truncate css-truncate-target">
+                    <a data-pjax="true" title="Linux Commands
+
+Linux Commands PDF" class="link-gray" href="/techarkit/Linux-For-Beginners/commit/ef2910e13ccaa5258df66d0e8541762816dd180d">Linux Commands</a>
+              </span>
+            </td>
+            <td class="age">
+              <span class="css-truncate css-truncate-target"><time-ago datetime="2019-06-19T12:26:41Z" class="no-wrap">Jun 19, 2019</time-ago></span>
+            </td>
+          </tr>
+          <tr class="js-navigation-item">
+            <td class="icon">
+              <svg aria-label="file" class="octicon octicon-file" viewBox="0 0 12 16" version="1.1" width="12" height="16" role="img"><path fill-rule="evenodd" d="M6 5H2V4h4v1zM2 8h7V7H2v1zm0 2h7V9H2v1zm0 2h7v-1H2v1zm10-7.5V14c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h7.5L12 4.5zM11 5L8 2H1v12h10V5z"></path></svg>
+              <img width="16" height="16" class="spinner" alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-32.gif" />
+            </td>
+            <td class="content">
+              <span class="css-truncate css-truncate-target"><a class="js-navigation-open " title="Linux_Certification_Videos_Tech_Arkit.pdf" id="70b8697a938cdaada1b0290c9a19e130-1dfb9e82673d81867318835d35cf99368b96fe37" href="/techarkit/Linux-For-Beginners/blob/master/Linux_Certification_Videos_Tech_Arkit.pdf">Linux_Certification_Videos_Tech_Arkit.pdf</a></span>
+            </td>
+            <td class="message">
+              <span class="css-truncate css-truncate-target">
+                    <a data-pjax="true" title="300+ Linux video tutorial free
+
+300+ Linux video tutorial free" class="link-gray" href="/techarkit/Linux-For-Beginners/commit/10ee1f355c5ceabedfc962a395dfe0e6c4835bf7">300+ Linux video tutorial free</a>
+              </span>
+            </td>
+            <td class="age">
+              <span class="css-truncate css-truncate-target"><time-ago datetime="2020-04-22T18:48:42Z" class="no-wrap">Apr 22, 2020</time-ago></span>
+            </td>
+          </tr>
+          <tr class="js-navigation-item">
+            <td class="icon">
+              <svg aria-label="file" class="octicon octicon-file" viewBox="0 0 12 16" version="1.1" width="12" height="16" role="img"><path fill-rule="evenodd" d="M6 5H2V4h4v1zM2 8h7V7H2v1zm0 2h7V9H2v1zm0 2h7v-1H2v1zm10-7.5V14c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h7.5L12 4.5zM11 5L8 2H1v12h10V5z"></path></svg>
+              <img width="16" height="16" class="spinner" alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-32.gif" />
+            </td>
+            <td class="content">
+              <span class="css-truncate css-truncate-target"><a class="js-navigation-open " title="Linux_Video_Tutorial.md" id="7c0e1c45441bc0885d4c3e5a7f272b32-daf8cc29eee3300b511d36a3574a3381d412c22c" href="/techarkit/Linux-For-Beginners/blob/master/Linux_Video_Tutorial.md">Linux_Video_Tutorial.md</a></span>
+            </td>
+            <td class="message">
+              <span class="css-truncate css-truncate-target">
+                    <a data-pjax="true" title="Update Linux_Video_Tutorial.md" class="link-gray" href="/techarkit/Linux-For-Beginners/commit/2af66fd7da07c9deb142d2965ef7d2a275777bca">Update Linux_Video_Tutorial.md</a>
+              </span>
+            </td>
+            <td class="age">
+              <span class="css-truncate css-truncate-target"><time-ago datetime="2020-04-22T19:27:08Z" class="no-wrap">Apr 22, 2020</time-ago></span>
+            </td>
+          </tr>
+          <tr class="js-navigation-item">
+            <td class="icon">
+              <svg aria-label="file" class="octicon octicon-file" viewBox="0 0 12 16" version="1.1" width="12" height="16" role="img"><path fill-rule="evenodd" d="M6 5H2V4h4v1zM2 8h7V7H2v1zm0 2h7V9H2v1zm0 2h7v-1H2v1zm10-7.5V14c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h7.5L12 4.5zM11 5L8 2H1v12h10V5z"></path></svg>
+              <img width="16" height="16" class="spinner" alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-32.gif" />
+            </td>
+            <td class="content">
+              <span class="css-truncate css-truncate-target"><a class="js-navigation-open " title="README.md" id="04c6e90faac2675aa89e2176d2eec7d8-ef4aad60e945f928b1cb9e2b3b97d20ddc45b4ec" href="/techarkit/Linux-For-Beginners/blob/master/README.md">README.md</a></span>
+            </td>
+            <td class="message">
+              <span class="css-truncate css-truncate-target">
+                    <a data-pjax="true" title="Update README.md" class="link-gray" href="/techarkit/Linux-For-Beginners/commit/f6ca5aa7ec70e1a293cd6d0310df365e71671838">Update README.md</a>
+              </span>
+            </td>
+            <td class="age">
+              <span class="css-truncate css-truncate-target"><time-ago datetime="2018-12-26T15:49:34Z" class="no-wrap">Dec 26, 2018</time-ago></span>
+            </td>
+          </tr>
+          <tr class="js-navigation-item">
+            <td class="icon">
+              <svg aria-label="file" class="octicon octicon-file" viewBox="0 0 12 16" version="1.1" width="12" height="16" role="img"><path fill-rule="evenodd" d="M6 5H2V4h4v1zM2 8h7V7H2v1zm0 2h7V9H2v1zm0 2h7v-1H2v1zm10-7.5V14c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h7.5L12 4.5zM11 5L8 2H1v12h10V5z"></path></svg>
+              <img width="16" height="16" class="spinner" alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-32.gif" />
+            </td>
+            <td class="content">
+              <span class="css-truncate css-truncate-target"><a class="js-navigation-open " title="RHEL7 RHCSA Objectivies PDF.pdf" id="fad7d68b9898b9d8870fd4bc92690946-082cf2be0265171f9d9e9a5857bc5580c2d6bc82" href="/techarkit/Linux-For-Beginners/blob/master/RHEL7%20RHCSA%20Objectivies%20PDF.pdf">RHEL7 RHCSA Objectivies PDF.pdf</a></span>
+            </td>
+            <td class="message">
+              <span class="css-truncate css-truncate-target">
+                    <a data-pjax="true" title="Add files via upload" class="link-gray" href="/techarkit/Linux-For-Beginners/commit/13904fecbc13e0eea8d42b517fbfa72f2b184a19">Add files via upload</a>
+              </span>
+            </td>
+            <td class="age">
+              <span class="css-truncate css-truncate-target"><time-ago datetime="2018-10-12T18:42:01Z" class="no-wrap">Oct 12, 2018</time-ago></span>
+            </td>
+          </tr>
+          <tr class="js-navigation-item">
+            <td class="icon">
+              <svg aria-label="file" class="octicon octicon-file" viewBox="0 0 12 16" version="1.1" width="12" height="16" role="img"><path fill-rule="evenodd" d="M6 5H2V4h4v1zM2 8h7V7H2v1zm0 2h7V9H2v1zm0 2h7v-1H2v1zm10-7.5V14c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h7.5L12 4.5zM11 5L8 2H1v12h10V5z"></path></svg>
+              <img width="16" height="16" class="spinner" alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-32.gif" />
+            </td>
+            <td class="content">
+              <span class="css-truncate css-truncate-target"><a class="js-navigation-open " title="YUM repository RHEL 8.pdf" id="192be79c171fb0f30513e9d479a4a83b-ba5ce34f120ea5821dbc51424afe6d42c4224cb6" href="/techarkit/Linux-For-Beginners/blob/master/YUM%20repository%20RHEL%208.pdf">YUM repository RHEL 8.pdf</a></span>
+            </td>
+            <td class="message">
+              <span class="css-truncate css-truncate-target">
+                    <a data-pjax="true" title="Yum repository configuration RHEL 8
+
+Yum repository configuration RHEL 8 Step by Step guide" class="link-gray" href="/techarkit/Linux-For-Beginners/commit/0e053276393003c9f6d45a7268315adace1b0ed9">Yum repository configuration RHEL 8</a>
+              </span>
+            </td>
+            <td class="age">
+              <span class="css-truncate css-truncate-target"><time-ago datetime="2020-01-23T07:33:26Z" class="no-wrap">Jan 23, 2020</time-ago></span>
+            </td>
+          </tr>
+          <tr class="js-navigation-item">
+            <td class="icon">
+              <svg aria-label="file" class="octicon octicon-file" viewBox="0 0 12 16" version="1.1" width="12" height="16" role="img"><path fill-rule="evenodd" d="M6 5H2V4h4v1zM2 8h7V7H2v1zm0 2h7V9H2v1zm0 2h7v-1H2v1zm10-7.5V14c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h7.5L12 4.5zM11 5L8 2H1v12h10V5z"></path></svg>
+              <img width="16" height="16" class="spinner" alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-32.gif" />
+            </td>
+            <td class="content">
+              <span class="css-truncate css-truncate-target"><a class="js-navigation-open " title="_config.yml" id="aeb42283af8ef8e9da40ededd3ae2ab2-c4192631f25b34d77a7f159aa0da0e3ae99c4ef4" href="/techarkit/Linux-For-Beginners/blob/master/_config.yml">_config.yml</a></span>
+            </td>
+            <td class="message">
+              <span class="css-truncate css-truncate-target">
+                    <a data-pjax="true" title="Set theme jekyll-theme-cayman" class="link-gray" href="/techarkit/Linux-For-Beginners/commit/ba37d86b72d767d6b8ac6165e379cbf7fe5d9ce6">Set theme jekyll-theme-cayman</a>
+              </span>
+            </td>
+            <td class="age">
+              <span class="css-truncate css-truncate-target"><time-ago datetime="2018-06-20T06:18:09Z" class="no-wrap">Jun 20, 2018</time-ago></span>
+            </td>
+          </tr>
+          <tr class="js-navigation-item">
+            <td class="icon">
+              <svg aria-label="file" class="octicon octicon-file" viewBox="0 0 12 16" version="1.1" width="12" height="16" role="img"><path fill-rule="evenodd" d="M6 5H2V4h4v1zM2 8h7V7H2v1zm0 2h7V9H2v1zm0 2h7v-1H2v1zm10-7.5V14c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h7.5L12 4.5zM11 5L8 2H1v12h10V5z"></path></svg>
+              <img width="16" height="16" class="spinner" alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-32.gif" />
+            </td>
+            <td class="content">
+              <span class="css-truncate css-truncate-target"><a class="js-navigation-open " title="nmcli-command-line-tool" id="c50123b107147bbc9d6e2d3b3931deb9-91090dcf28783511272f3f5032dfa8d7f3178948" href="/techarkit/Linux-For-Beginners/blob/master/nmcli-command-line-tool">nmcli-command-line-tool</a></span>
+            </td>
+            <td class="message">
+              <span class="css-truncate css-truncate-target">
+                    <a data-pjax="true" title="Create nmcli-command-line-tool
+
+nmcli is a command-line tool for controlling NetworkManager and reporting network status. It can be utilized as a replacement for nm-applet or other graphical clients.  nmcli is used to create, display, edit, delete, activate, and deactivate network connections, as well as control and display network device status." class="link-gray" href="/techarkit/Linux-For-Beginners/commit/e60ac2174492e50651d5d20485950a372e1f5a73">Create nmcli-command-line-tool</a>
+              </span>
+            </td>
+            <td class="age">
+              <span class="css-truncate css-truncate-target"><time-ago datetime="2018-09-28T17:51:31Z" class="no-wrap">Sep 28, 2018</time-ago></span>
+            </td>
+          </tr>
+      </tbody>
+    </table>
+
+
+
+
+</div>
+
+  <div id="readme" class="Box md js-code-block-container Box--condensed">
+    <div class="Box-header d-flex flex-items-center flex-justify-between ">
+      <h2 class="Box-title pr-3">
+        <svg class="octicon octicon-book" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"></path></svg>
+        README.md
+      </h2>
+    </div>
+      <div class="Box-body p-5">
+        <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-linux-for-beginners" class="anchor" aria-hidden="true" href="#linux-for-beginners"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Linux For Beginners</h1>
+<p>A Red Hat Certified System Administrator (RHCSA) is able to perform the following tasks  :simple_smile:</p>
+<p><a href="https://github.com/techtutorials/Linux-For-Beginners">Linux Beginners</a></p>
+<ul>
+<li><a href="https://www.facebook.com/Linuxarkit/" rel="nofollow">Facebook</a></li>
+<li><a href="https://feedburner.google.com/fb/a/mailverify?uri=arkit" rel="nofollow">Email List</a></li>
+<li><a href="https://in.linkedin.com/in/ravi-kumar-94530121" rel="nofollow">Linkedin</a></li>
+<li><a href="https://plus.google.com/u/0/+RedhatEnterpriseLinuxStepbyStepGuide/posts" rel="nofollow">Google Plus</a></li>
+<li><a href="https://twitter.com/aravikumar48" rel="nofollow">Twitter</a></li>
+<li><a href="https://www.youtube.com/Techarkit?sub_confirmation=1" rel="nofollow">Youtube</a></li>
+<li><a href="/techarkit/Linux-For-Beginners/blob/master/aravikumar48@gmail.com">Email Address</a></li>
+</ul>
+<p><strong>RHCSA Objectives</strong></p>
+<ul>
+<li>
+<p>Understand and use essential tools for handling files, directories, command-line environments, and documentation</p>
+</li>
+<li>
+<p>Operate running systems, including booting into different run levels, identifying processes, starting and stopping virtual machines, and controlling services</p>
+</li>
+<li>
+<p>Configure local storage using partitions and logical volumes</p>
+</li>
+<li>
+<p>Create and configure file systems and file system attributes, such as permissions, encryption, access control lists, and network file systems</p>
+</li>
+<li>
+<p>Deploy, configure, and maintain systems, including software installation, update, and core services</p>
+</li>
+<li>
+<p>Manage users and groups, including use of a centralized directory for authentication</p>
+</li>
+<li>
+<p>Manage security, including basic firewall and SELinux configuration</p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=BskRmjvWG5Y" rel="nofollow">RHCSA Certification Course Overview</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=2DKrI3CWfbE" rel="nofollow">Setup Linux Lab using your Desktop</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=Wv5VHr4esvs" rel="nofollow">Introduction to Linux Operating System</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=I25FJk7Vzjc" rel="nofollow">Download ISO and Centos7 Installation Guide</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=34E_QacTwww" rel="nofollow">Getting Started with Linux Basic Commands</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=4HS7w3aQoaE" rel="nofollow">Alias Command Linux | Create Shortcuts for Long Commands</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=7qaBKueySg0" rel="nofollow">awk Command | Powerful Text Manipulation Tool</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=6dJlp133iYg" rel="nofollow">Crontab Command - 15 Cronjob Scheduling Examples in Linux</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=tjQ9beFSBmA" rel="nofollow">Curl Command | Send and Receive Files From Server</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=OmPoEDJxcmA" rel="nofollow">Find Command | Search Files and Directory in Linux</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=fKFYDVWFndc" rel="nofollow">Firewall-cmd command | Firewall Using FirewallD on CentOS 7</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=I2KsQ0rpuXE" rel="nofollow">Fdisk Command | Fixed Disk | Format Disk - Manage Disks &amp; Partitions</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=kHd-HMe0OOE" rel="nofollow">Grep Command | 15 Amazing Practical Examples</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=AcaETZeHM9o" rel="nofollow">Hostname Command | How To Assign and Change Hostname in RHEL 7</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=753xPLKWklA" rel="nofollow">dig Command | Troubleshoot DNS record Issues</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=4rfXktIV6cE" rel="nofollow">tr Command in Linux/Unix</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=zENZ3sPaLhI" rel="nofollow">chage command | Enforce Users To Change  Passwords Frequently</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=ItHisMxfv-E" rel="nofollow">cpio command | Find and Archive the Files &amp; Directory Tree</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=0zcb6Ecpacw" rel="nofollow">dd Command | Create HDD Image Backup and Restore</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=raI1yrYwGfY" rel="nofollow">head command | tail command To check Log Files | Linux Tutorial</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=r_f8yF_epxQ" rel="nofollow">File Globing in Linux | Wildcards To Fetch Data</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=0qJW0225ASI" rel="nofollow">chmod command | Modify Files &amp; Directory Permissions</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=YDoto35PmUI" rel="nofollow">du Command | Disk utilization analyze - </a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=RD4DahuBN2k" rel="nofollow">file command to determine any file type - </a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=uFvF17UnYZg" rel="nofollow">history command | Remember Commands Like Pro</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=Zc50h2wGUp4" rel="nofollow">diff Command | Compare Multiple Files Content - </a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=Dn9t50Y2o0s" rel="nofollow">cut command in Linux | Trim Text As You Like</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=MYvr_uy6L9w" rel="nofollow">free command | Check System Memory Usage to identify Performance Issues</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=WUrxbMSDV8Y" rel="nofollow">chgrp command | Change Group Ownership Of Files and Directories</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=O8ElkiAGsfM" rel="nofollow">df Command | Disk File System Usage Report</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=4j6ufjitfZM" rel="nofollow">Linux commands: id Command | print real and effective user and group IDs</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=IzF0MBAGad0" rel="nofollow">at command Linux - </a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=FKBNZYr8Ryw" rel="nofollow">date Command | Convert Date &amp; Time As Per Timezone</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=3V_gxZnZk80" rel="nofollow">cat command |  Concatenate files and print on the standard output</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=07bKJcc47nw" rel="nofollow">chown command | Change User-Group Ownership of Files and Directories</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=A2lrUpCcbHE" rel="nofollow">Linux commands:  chattr command to protect files &amp; directories from accidental deletion</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=FPrtytWSBLE" rel="nofollow">cd command | Change the current directory to dir - </a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=EJKtGl-6kHY" rel="nofollow">bc Command | An arbitrary-precision calculator language</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=6LbMLSBoLGY" rel="nofollow">expr command | Evaluate Expressions in Linux - </a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=StxMta9_q70" rel="nofollow">cp Command | Copy Files &amp; Directories and Create Soft &amp; Hard Links</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=pGnsiAxsTug" rel="nofollow">Linux commands:  ifconfig command | To See Interface Details</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=xSN5tYuLiRM" rel="nofollow">cal command | To View Calendar of Any Year</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=VG-MMju9RhQ" rel="nofollow">arp command Linux - </a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=-I7WeOHj6LA" rel="nofollow">25 Basic Linux Commands Commonly Used in Daily Tasks - RHCSA</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=KejTjofmdM4" rel="nofollow">Linux User Administration - RHCSA Certification Guide</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=8EzhyyutaN8" rel="nofollow">Modify Linux User Properties and Set Password Age Policy</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=VXSKr4GKOgY" rel="nofollow">YUM Repository Configuration RHEL 7 Step by Step Guide</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=D1ZFQgTsz3U" rel="nofollow">Creating Linux Groups and Securing them with Password - RHCSA</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=r-a1fcHHRQ8" rel="nofollow">Linux File Permissions - umask Explained - RHCSA</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=0KbP-yHSvVI" rel="nofollow">ACL - Access Control List - Linux Permissions - RHCSA</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=uFud2eZnXSM" rel="nofollow">Special File Permissions Linux - SUID, SGID and Sticky Bit - Tech Arkit</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=TygHDr_yHyw" rel="nofollow">Sudo User Configuration Deep Dive - sudoers - visudo - Tech Arkit</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=yc9Gz5xLSSk" rel="nofollow">Linux Disk Partitioning Creating Standard Partitions - RHCSA - Tech Arkit</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=LhecpXO7nug" rel="nofollow">How To Delete Standard Partitions in Linux - Tech Arkit</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=3mgm2Q4DIdg" rel="nofollow">LVM  Logical Volume Manager - Creating Logical Volumes - RHCSA</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=5e5h6xYctL0" rel="nofollow">lvextend Extending Logical Volume Size non-disruptively - RHCSA</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=qj34vtpyfVg" rel="nofollow">lvreduce How to Reduce LVM Size without Loosing data</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=EyILeB9Drso" rel="nofollow">How to Get Help From Linux Command Line and Man Pages - RHCSA</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=4SdszyDodcU" rel="nofollow">OpenSSH (Secure Shell) Server and Client Configuration - RHCSA</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=KHUG3gFl0fM" rel="nofollow">Syslog Server Analyzing and Storing Logs - RHCSA</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=XkEsIjSAwws" rel="nofollow">Archiving and Compressing Files and Directories - tar - RHCSA</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=7h5M48FvkZA" rel="nofollow">RPM   Red Hat Package Manager  Install/Remove/Upgrade/Query Software's</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=9CZ7rHtVQr0" rel="nofollow">Crontab and at  Commands - Automating Regular Tasks</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=ni2nTgDvyxE" rel="nofollow">ps - Listing and Managing Linux Process - RHCSA</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=cwz1AgVQ41k" rel="nofollow">Access Linux machine using GUI and CLI1</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=rVxpe1_lNFE" rel="nofollow">Shell Scripting Tutorial-3 Linux Directory Structure Amazing way to understand</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=IFvMor-0eFM" rel="nofollow">Shell Scripting Tutorial-2 Linux Basics - Linux basic commands</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=yYC8aaQ3eZA" rel="nofollow">Shell Scripting Tutorial-4 Basic Commands touch, cat, ls, cd, date, cal and pwd</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=G7XFreQkDB8" rel="nofollow">Shell Scripting Tutorial-5 Copy, Remove, Move and Time Commands</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=RwcQ6JzTsmA" rel="nofollow">Shell Scripting Tutorial-6 diff and grep command with regular expressions</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=OgV3qrPQulU" rel="nofollow">Shell Scripting Tutorial-7 head, tail, sort and more commands How to check logs using these commands</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=d40a5zFa8yI" rel="nofollow">Shell Scripting Tutorial-8 tr and wc command Count file characters, lines and words</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=vx1WZepOmKg" rel="nofollow">Shell Scripting Tutorial-9 Linux Disk Utilities to get required information</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=GcYu-0IIJas" rel="nofollow">Shell Scripting Tutorial-10 Getting Help from Command Line Interface</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=7shAr5lp_Wc" rel="nofollow">Shell Scripting Tutorial-11 w, who, hostname, hostnamectl and uname commands</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=Rd6e-OrsHpo" rel="nofollow">Shell Scripting Tutorial-12 find and locate command to search for files and directories</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=UQ7rr4_47YY" rel="nofollow">Shell Scripting Tutorial-13 top command analyzing system performance</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=K3SUrcJ740Y" rel="nofollow">Shell Scripting Tutorial-14 Text Editors Nano and Vi</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=4hJorSKg9E0" rel="nofollow">shell scripting Tutorial-15 sed, awk, vmstat, netstat and mail</a></p>
+</li>
+</ul>
+</article>
+      </div>
+  </div>
+
+
+
+
+  </div>
+</div>
+
+    </main>
+  </div>
+  
+
+  </div>
+
+        
+<div class="footer container-lg width-full px-3" role="contentinfo">
+  <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <ul class="list-style-none d-flex flex-wrap ">
+      <li class="mr-3">&copy; 2020 GitHub, Inc.</li>
+        <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
+        <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
+        <li class="mr-3"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
+        <li class="mr-3"><a href="https://githubstatus.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+        <li><a data-ga-click="Footer, go to help, text:help" href="https://help.github.com">Help</a></li>
+
+    </ul>
+
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mx-lg-4" href="https://github.com">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+</a>
+   <ul class="list-style-none d-flex flex-wrap ">
+        <li class="mr-3"><a data-ga-click="Footer, go to contact, text:contact" href="https://github.com/contact">Contact GitHub</a></li>
+        <li class="mr-3"><a href="https://github.com/pricing" data-ga-click="Footer, go to Pricing, text:Pricing">Pricing</a></li>
+      <li class="mr-3"><a href="https://developer.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+      <li class="mr-3"><a href="https://training.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+        <li class="mr-3"><a href="https://github.blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+        <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+</div>
+
+
+
+  <div id="ajax-error-message" class="ajax-error-message flash flash-error">
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 00.01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg>
+    <button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+      <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
+    </button>
+    You can’t perform that action at this time.
+  </div>
+
+
+    <script crossorigin="anonymous" async="async" integrity="sha512-WcQmT2vhcClFVOaaAJV/M+HqsJ2Gq/myvl6F3gCVBxykazXTs+i5fvxncSXwyG1CSfcrqmLFw/R/bmFYzprX2A==" type="application/javascript" id="js-conditional-compat" data-src="https://github.githubassets.com/assets/compat-bootstrap-59c4264f.js"></script>
+    <script crossorigin="anonymous" integrity="sha512-Y86V8OBlvF6I/7e56GKOOt80Yg1RTGA09uqFFX18aiBtevLbKGxB7sVpCn79fukppFIBqyBTB/s6l0Bhn0kidQ==" type="application/javascript" src="https://github.githubassets.com/assets/environment-bootstrap-63ce95f0.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-ASMgX6+DJ9LVZX/3Fj0RzibSpfigU83ubvsxxwriojWmuBM3faUp1108gypkhXpqLHEBQhIhjlzDOejzOFd0gA==" type="application/javascript" src="https://github.githubassets.com/assets/vendor-0123205f.js"></script>
+    <script crossorigin="anonymous" async="async" integrity="sha512-+6Nd4aRFaWfNCioCSh16u4syBFdf0v/NceXHXkq09bWpEe5bbFHuNcTynuDOFo1rxyzp/d++LXUHy71vQuvVug==" type="application/javascript" src="https://github.githubassets.com/assets/frameworks-fba35de1.js"></script>
+    
+    <script crossorigin="anonymous" async="async" integrity="sha512-itwYIoc2+ZxRc9Us7Efw4Z6vlNNYS59N2hYQk7plNwD2rjvLq04WT64SOo9HPWe1pas8G8LCEGLT4+rApPrYgg==" type="application/javascript" src="https://github.githubassets.com/assets/github-bootstrap-8adc1822.js"></script>
+    
+        <script crossorigin="anonymous" async="async" integrity="sha512-urN6bhHnHu4C12A+cTH3dOp+CwLaycy2HUXr95hvu5pbYRdF8z6iR+UQcTZutQ6mZG3Njluw2MTZVCNmwcqh8g==" type="application/javascript" data-module-id="./randomColor.js" data-src="https://github.githubassets.com/assets/randomColor-bab37a6e.js"></script>
+        <script crossorigin="anonymous" async="async" integrity="sha512-3Vk1NFIOm+TBUMM6pTA6DCUwwLLnc/QIT8jpENm71InvSU8O4p2plDagpst1tH1l+9jOBnneaXZnAskA9a2b3w==" type="application/javascript" data-module-id="./gist-vendor.js" data-src="https://github.githubassets.com/assets/gist-vendor-dd593534.js"></script>
+        <script crossorigin="anonymous" async="async" integrity="sha512-4GcSWGoe36+BoWho4gtJcByZe8j43w+lt2/PDe3rmBxRVSgD29YipDwuIywe8fvOd2b2CszBqaPGxSznUtE3Xg==" type="application/javascript" data-module-id="./drag-drop.js" data-src="https://github.githubassets.com/assets/drag-drop-e0671258.js"></script>
+    
+    
+  <div class="js-stale-session-flash flash flash-warn flash-banner" hidden
+    >
+    <svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 00.01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg>
+    <span class="js-stale-session-flash-signed-in" hidden>You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+    <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+  </div>
+  <template id="site-details-dialog">
+  <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark hx_rsm" open>
+    <summary role="button" aria-label="Close dialog"></summary>
+    <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
+      <button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"></path></svg>
+      </button>
+      <div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+    </details-dialog>
+  </details>
+</template>
+
+  <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
+  </div>
+</div>
+
+
+  </body>
+</html>
+
